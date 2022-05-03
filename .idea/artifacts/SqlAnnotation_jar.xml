@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SqlAnnotation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SqlAnnotation_jar</output-path>
+    <root id="archive" name="SqlAnnotation.jar">
+      <element id="module-output" name="SqlAnnotation" />
+    </root>
+  </artifact>
+</component>
